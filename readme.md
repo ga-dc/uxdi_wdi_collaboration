@@ -13,6 +13,8 @@ Week 7 of WDI (August 10 - August 15)
 	- 13 topics
 	  - each of us thinks of 3 topics like:
 	    - "Build a mobile application that allows metro riders to optimize their transit"
+	    - "Build an application that allows devs to find designers and designers to find devs to work with"
+	    - "Build an application that allows users to find images based on keyword and location on instagram"
 	- 7/28 ice cream social to mix uxers and devs
 
 
