@@ -6,32 +6,36 @@ to learn from each other’s disciplines.
 Week 7 of WDI (August 10 - August 15)
 - Next steps
     - Monday morning lesson plans
-    - Dan Game info
+    - Kara Game info
     - Readme for the outcome of the collaboration project
-    - Logistics
-        - groups: https://docs.google.com/a/generalassemb.ly/spreadsheets/d/1nvep6gq2msu3O30O9m-hziIrq6hPyajuxnxJiQUFVDc/edit?usp=sharing
-	- 13 topics
-	  - each of us thinks of 3 topics like:
-	    - "Build a mobile application that allows metro riders to optimize their transit"
-	    - "Build an application that allows devs to find designers and designers to find devs to work with"
-	    - "Build an application that allows users to find images based on keyword and location on instagram"
-	- 7/28 ice cream social to mix uxers and devs
+    - Assign topics to groups
+    - Add a few more topics
+    - Shuffle WDI students
+    - make sure ice cream is available
 
+## Homework weekend of July 24th
 
-## WDI SWBAT
+- Uxers review wdi project 1
+- WDI review uxdi project 1 recording
 
-- Persist data
-  - a personal blog, twitter clone, facebook clone.
-- Interact with external APIs
-  - get info from sites like Facebook, Instagram, WMATA
-- Build interactive page elements
-  - Animations, transitions, scroll effects, etc.
-- Build responsive websites
-  - Mobile design patterns
+## Ice Cream Social July 28th @ 5pm
 
-## UXDI SWBAT
+- Find your UX or WDI partner and discuss each other’s projects!
 
-https://docs.google.com/document/d/1kezXS-cWAJb84_fzqOQ_Rb8ZzUF6qMoYyKDbOh_UjXY/edit
+## Topics
+
+- "Build a mobile application that allows metro riders to optimize their transit"
+- "Build an application that allows devs to find designers and designers to find devs to work with"
+- "Build an application that allows users to find images based on keyword and location on instagram"
+- build an application that improves upon current reservation systems for restaurants (yelp api)
+- build an application that allows users to view lost dogs and cats in and around their area (popville api)
+- build an application that allows users to view recently recovered stolen bikes, or lost and found (API: http://mpdc.dc.gov/service/view-photos-recovered-property)
+- build an application that allows users to view what free activities are available in and around their area
+- build an application that allows users to view the tourist free times to go see the touristy things… i.e. tourist dodging
+
+## Groups
+
+https://docs.google.com/a/generalassemb.ly/spreadsheets/d/1nvep6gq2msu3O30O9m-hziIrq6hPyajuxnxJiQUFVDc/edit?usp=sharing
 
 ## WDI Morning Lesson Plan
 
@@ -47,5 +51,4 @@ Outline:
 - Contributing to Code
   - Git && GitHub
   - Features & User Stories
-
 
