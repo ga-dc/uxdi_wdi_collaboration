@@ -9,10 +9,7 @@ Week 7 of WDI (August 10 - August 15)
     - Dan Game info
     - Readme for the outcome of the collaboration project
     - Logistics
-      - group size / breakdown
-        - 52 / 18 = 2.88 ~ 1 uxer per 3 devs
-	- 52 / 4 = 13 groups ~ 5 groups w/ 2 uxers
-	- what are those groups?
+        - groups: https://docs.google.com/a/generalassemb.ly/spreadsheets/d/1nvep6gq2msu3O30O9m-hziIrq6hPyajuxnxJiQUFVDc/edit?usp=sharing
 	- 13 topics
 	  - each of us thinks of 3 topics like:
 	    - "Build a mobile application that allows metro riders to optimize their transit"
