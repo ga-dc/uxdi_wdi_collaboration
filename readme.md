@@ -4,14 +4,16 @@ In this collaborative project, both UXDI and WDI students will work together
 to learn from each other’s disciplines. 
 
 Week 7 of WDI (August 10 - August 15)
-- Next steps
-    - Monday morning lesson plans
-    - Kara Game info
-    - Readme for the outcome of the collaboration project
-    - Assign topics to groups
-    - Add a few more topics
-    - Shuffle WDI students
-    - make sure ice cream is available
+
+## Next steps
+
+- Monday morning lesson plans
+- Kara Game info
+- Readme for the outcome of the collaboration project
+- Assign topics to groups
+- Add a few more topics
+- Shuffle WDI students
+- make sure ice cream is available
 
 ## Homework weekend of July 24th
 
